@@ -1,0 +1,125 @@
+@font-face {
+  font-family: 'DIST Inking Regular';
+  src: url("..11610.ttf?srf3rx") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.lord_home{
+width: 1000px;
+height: 250px;
+position: absolute;
+left: 0px;
+top: 1000px;
+background-color:#1d1c1b;
+z-index: -2;
+}
+.lord_1{
+	position: absolute;
+width: 350px;
+height: 250px;
+top: 0px;
+left: 0px;
+}
+.lord_1_left{
+	position: absolute;
+width: 350px;
+height: 250px;
+top: 0px;
+left: 700px;
+}
+.lord_1-2{
+	position: absolute;
+width: 350px;
+height: 250px;
+top: 0px;
+left: 300px;
+z-index: -2;
+}
+.lord_1-2-3{
+	position: absolute;
+width: 350px;
+height: 250px;
+top: 0px;
+left: -50px;
+z-index: -1;
+}
+.lord_2{
+position: absolute;
+width: 50px;
+height: 500px;
+background-color:#350000;
+box-shadow: 6px 5px 18px 3px #000000;
+}
+.lord_3_photo{
+position: absolute;
+width: 220px;
+height: 220px;
+left: 13px;
+top: 15px;
+background-color:#ffffff;
+border-radius: 200px;
+box-shadow: 6px 5px 18px 3px #000000;
+}
+.lord_2_polosa_1{
+	position: absolute;
+left: 0px;
+top: 195px;
+}
+.text_AWP{
+	position: absolute;
+	top: 90px;
+	left: 10px;
+  font-size: 15px;
+  line-height: 0.5;
+  color: #ffffff;
+}
+.text-photo1-1{
+	position: absolute;
+	top: -20px;
+  left: 10px;
+  font-size: 90px;
+  color: #350000;
+}
+.text-dk1-1{
+		position: absolute;
+	top: 75px;
+  left: 95px;
+  font-size: 30px;
+	color:#1d1c1b;
+	z-index: 1;
+}
+.text-dk1-2{
+		position: absolute;
+	top: 75px;
+  left: 95px;
+  font-size: 30px;
+	color:#1d1c1b;
+	z-index: 1;
+}
+.intop{
+position: absolute;
+  left: 350px;
+  width: 300px;
+height: 250px;
+}
+.ontop{
+position: absolute;
+  left: 350px;
+  width: 300px;
+height: 250px;
+}
+.text-info_player_awp{
+			position: absolute;
+	top: 75px;
+  left: 95px;
+  font-size: 30px;
+	color:#1d1c1b;
+}
+#open_lord_1 {
+position: absolute;
+width: 1000px;
+height: 250px;
+left: 50px
+}
+
+
